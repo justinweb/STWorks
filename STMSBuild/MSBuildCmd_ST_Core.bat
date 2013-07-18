@@ -9,6 +9,7 @@ set SlnList_3=STMsgChannel,SVN
 set SlnList_4=Data,SVN
 set SlnList_5=STDataServer,SVN
 set SlnList_6=STOMS,SVN
+set SlnList_7=Trading,SVN
 
 call %CommonDir%\CommonBuildCore.bat SlnList
 pause
